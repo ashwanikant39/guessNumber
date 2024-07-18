@@ -34,6 +34,6 @@ checkBtn.addEventListener("click", () => {
   }
 });
 
-restart.addEventListener("click", ()=>{
-    location.reload();
-})
+restart.addEventListener("click", () => {
+  location.reload();
+});
